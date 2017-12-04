@@ -23,3 +23,6 @@ npm install
 npm start
 
 <br />
+
+#Extra Features
+1. Bound HandleSortChange to the search feature. So that once the sort options are clicked, search will auto run. That way you do not have to select a sort option then click search.
