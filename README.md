@@ -20,9 +20,9 @@ To copy this project use
 npm install
 <br />
 5. then <br />
-npm start
+npm start <br />
 
-<br />
 
-#Extra Features
+
+# Extra Features
 1. Bound HandleSortChange to the search feature. So that once the sort options are clicked, search will auto run. That way you do not have to select a sort option then click search.
