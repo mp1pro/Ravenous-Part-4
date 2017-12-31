@@ -1,3 +1,7 @@
+/*requesting accessToken from yelp will be no more as of march 18, 2018. Instead we will be given api keys by yelp to be used here
+ Authorization: `Bearer ${api-key-here}`
+ */
+
 import { clientId, secret } from './config.js';
 let accessToken;
 
